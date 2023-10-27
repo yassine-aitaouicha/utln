@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 pchaaaaakh
+=======
+mehr licht mehr licht
+>>>>>>> introduction
 =======
 mehr licht mehr licht
 >>>>>>> introduction
